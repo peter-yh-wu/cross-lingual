@@ -4,4 +4,7 @@ Indic TTS Samples can be found at [https://peter-yh-wu.github.io/cross-lingual/]
 
 Code for neural ASR & TTS experiments can be found at [https://github.com/peter-yh-wu/espnet](https://github.com/peter-yh-wu/espnet)
 
-Instructions for running experiments will be added soon!
+ - The [javanese_asr](https://github.com/peter-yh-wu/espnet/tree/javanese_asr) branch contains scripts to train the Javanese ASR model in `egs2/java`
+ - The [sundanese_asr](https://github.com/peter-yh-wu/espnet/tree/sundanese_asr) branch contains scripts to train the Sundanese ASR model in `egs2/sunda`
+
+Further instructions for running experiments will be added soon!

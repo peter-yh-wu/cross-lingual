@@ -2,13 +2,6 @@
 
 Below are samples for zero-shot TTS from a set of source languages to the target languages in the section headers.
 
-### Gujarati as Target Language
-
-| **Gujarati** | **Hindi** | **Kannada** | **Marathi** | **Punjabi** | **Tamil** | **Telugu** |  
-| --- | --- | --- | --- | --- | --- | --- |  
-| <audio controls=""> <source src="samples/guj/guj_guj_dp_gu_00976.mp3"> </audio> | <audio controls=""> <source src="samples/guj/hin_guj_dp_gu_00976.mp3"> </audio> | <audio controls=""> <source src="samples/guj/kan_guj_dp_gu_00976.mp3"> </audio> | <audio controls=""> <source src="samples/guj/mar_guj_dp_gu_00976.mp3"> </audio> | <audio controls=""> <source src="samples/guj/pan_guj_dp_gu_00976.mp3"> </audio> | <audio controls=""> <source src="samples/guj/tam_guj_dp_gu_00976.mp3"> </audio> | <audio controls=""> <source src="samples/guj/tel_guj_dp_gu_00976.mp3"> </audio> |  
-| <audio controls=""> <source src="samples/guj/guj_guj_dp_gu_01017.mp3"> </audio> | <audio controls=""> <source src="samples/guj/hin_guj_dp_gu_01017.mp3"> </audio> | <audio controls=""> <source src="samples/guj/kan_guj_dp_gu_01017.mp3"> </audio> | <audio controls=""> <source src="samples/guj/mar_guj_dp_gu_01017.mp3"> </audio> | <audio controls=""> <source src="samples/guj/pan_guj_dp_gu_01017.mp3"> </audio> | <audio controls=""> <source src="samples/guj/tam_guj_dp_gu_01017.mp3"> </audio> | <audio controls=""> <source src="samples/guj/tel_guj_dp_gu_01017.mp3"> </audio> |  
-
 ### Hindi as Target Language
 
 | **Gujarati** | **Hindi** | **Kannada** | **Marathi** | **Punjabi** | **Tamil** | **Telugu** |  
